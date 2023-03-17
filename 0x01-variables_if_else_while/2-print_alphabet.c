@@ -7,12 +7,9 @@
  */
 int main(void)
 {
-	int a = 97;
-
-	while (a < 123)
+	for (i = 'a' ; i <= 'z' ; i++)
 	{
-		putchar ("%c", a);
-		a = a + 1;
+		putchar(i);
 	}
 	putchar("\n");
 	return (0);
