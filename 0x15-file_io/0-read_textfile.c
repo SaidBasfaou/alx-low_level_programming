@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "mainh"
 
 /**
  * read_textfile - reads a text file and prints the letters
