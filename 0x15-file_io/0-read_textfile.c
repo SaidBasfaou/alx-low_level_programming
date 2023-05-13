@@ -1,4 +1,4 @@
-#include "mainh"
+#include "main"
 
 /**
  * read_textfile - reads a text file and prints the letters
